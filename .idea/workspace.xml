@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="402dae18-1cda-4737-9027-1a85a2d68ef4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZWK7U0vn83bBoZ4LeTFizZSvfX" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SumDuongCheoChinh" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumDuongcheochinh.SumDuongCheoChinh" />
+      <module name="BaiTapArray 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SumDuongcheochinh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SumDuongCheoChinh" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="402dae18-1cda-4737-9027-1a85a2d68ef4" name="Default Changelist" comment="" />
+      <created>1584949242307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584949242307</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1320" height="161" key="GridCell.Tab.0.bottom" timestamp="1584949425018">
+      <screen x="0" y="27" width="1366" height="696" />
+    </state>
+    <state width="1320" height="161" key="GridCell.Tab.0.bottom/0.27.1366.696@0.27.1366.696" timestamp="1584949425018" />
+    <state width="1320" height="161" key="GridCell.Tab.0.center" timestamp="1584949425017">
+      <screen x="0" y="27" width="1366" height="696" />
+    </state>
+    <state width="1320" height="161" key="GridCell.Tab.0.center/0.27.1366.696@0.27.1366.696" timestamp="1584949425017" />
+    <state width="1320" height="161" key="GridCell.Tab.0.left" timestamp="1584949425017">
+      <screen x="0" y="27" width="1366" height="696" />
+    </state>
+    <state width="1320" height="161" key="GridCell.Tab.0.left/0.27.1366.696@0.27.1366.696" timestamp="1584949425017" />
+    <state width="1320" height="161" key="GridCell.Tab.0.right" timestamp="1584949425018">
+      <screen x="0" y="27" width="1366" height="696" />
+    </state>
+    <state width="1320" height="161" key="GridCell.Tab.0.right/0.27.1366.696@0.27.1366.696" timestamp="1584949425018" />
+  </component>
+</project>
